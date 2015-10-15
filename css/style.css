@@ -1,0 +1,43 @@
+.grande{
+	height: 200px;
+	width: 200px;
+}
+.mediano{
+	height: 100px;
+	width: 100px;
+}
+.chico{
+	height: 50px;
+	width: 50px;
+}
+
+.rojo{
+	background-color: red;
+	position: static;
+	margin-bottom: 10px;
+}
+.morado{
+	background-color: purple;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.amarillo{
+	background-color: yellow;
+	position: static;
+}
+.azul{
+	background-color: blue;
+	position: static;
+}
+.verde{
+	background-color: green;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.negro{
+	background-color: black;
+	position: static;
+}
+
